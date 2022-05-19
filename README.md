@@ -3,5 +3,5 @@
 -learning markdown
 -installing python
 ## day two
-building a simple calculator
+building a simple calculator using python
 ## day three

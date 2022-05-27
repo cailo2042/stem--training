@@ -19,5 +19,10 @@ complex calc
 ##day 7
 lists
 tuples
-sets 
+sets
+## day 8
+dictionaries
+catch errors
+read,write read and write ,append
+
 

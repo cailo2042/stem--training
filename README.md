@@ -14,9 +14,9 @@ building a simple calculator using python
 lists
 indexes
 strings as lists
-##day 5
+## day 5
 complex calc
-##day 7
+## day 7
 lists
 tuples
 sets

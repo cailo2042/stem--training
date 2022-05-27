@@ -20,9 +20,11 @@ complex calc
 lists
 tuples
 sets
-## day 8
 dictionaries
 catch errors
-read,write read and write ,append
+read, write,read and write and append
+## day 8
+Object-Oriented programming
+
 
 

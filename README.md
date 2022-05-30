@@ -7,24 +7,27 @@ building a simple calculator using python
 ## day three
  building a complex calculator
  strings in python
- ## day 4
+ ## day four
  control flow
  if ststement
  else, elif
 lists
 indexes
 strings as lists
-## day 5
+## day five
 complex calc
-## day 7
+## day seven
 lists
 tuples
 sets
 dictionaries
 catch errors
 read, write,read and write and append
-## day 8
+## day eight
 Object-Oriented programming
+## day nine
+GUI (graphical user interphase)
+Tkinter
 
 
 

@@ -1,4 +1,3 @@
-from ssl import SSL_ERROR_WANT_X509_LOOKUP
 from tkinter import*
 root=Tk()
 #create text field space

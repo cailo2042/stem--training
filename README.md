@@ -42,6 +42,9 @@ file handling-opening
              -closing
              -reading
              -writing
+             -make
+             -delete
+             
 
 
 

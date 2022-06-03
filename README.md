@@ -33,7 +33,15 @@ importing packages
 ## day eleven
 calculator
 buttons
-
+## day twelve
+exceptional handling-try
+                    -except
+                    -done
+                    -finally
+file handling-opening
+             -closing
+             -reading
+             -writing
 
 
 

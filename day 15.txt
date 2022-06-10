@@ -1,0 +1,26 @@
+int button=9;
+int led =10;
+
+
+void setup() {
+  // put your setup code here, to run once:
+pinMode(led, OUTPUT);
+pinMode(button, INPUT);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+if(digitalRead(button) ==1){
+  digitalWrite(led,HIGH);
+  delay(500);
+  digitalWrite(led, LOW);
+  delay(500);
+  digitalWrite(led,HIGH);
+  delay(500);
+  digitalWrite(led, LOW);
+  delay(500);
+  digitalWrite(led, HIGH);
+}else{
+  digitalWrite(led,LOW);
+}
+}
